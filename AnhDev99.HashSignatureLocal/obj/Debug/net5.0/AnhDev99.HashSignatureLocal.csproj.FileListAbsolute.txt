@@ -1,0 +1,14 @@
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\bin\Debug\net5.0\AnhDev99.HashSignatureLocal.deps.json
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\bin\Debug\net5.0\AnhDev99.HashSignatureLocal.dll
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\bin\Debug\net5.0\ref\AnhDev99.HashSignatureLocal.dll
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\bin\Debug\net5.0\AnhDev99.HashSignatureLocal.pdb
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\bin\Debug\net5.0\itextsharp.dll
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\AnhDev99.HashSignatureLocal.csproj.AssemblyReference.cache
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\AnhDev99.HashSignatureLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\AnhDev99.HashSignatureLocal.AssemblyInfoInputs.cache
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\AnhDev99.HashSignatureLocal.AssemblyInfo.cs
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\AnhDev99.HashSignatureLocal.csproj.CoreCompileInputs.cache
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\AnhDev99.HashSignatureLocal.csproj.CopyComplete
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\AnhDev99.HashSignatureLocal.dll
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\ref\AnhDev99.HashSignatureLocal.dll
+C:\Users\ntkie\source\repos\AnhDev99.HashSignatureLocal\obj\Debug\net5.0\AnhDev99.HashSignatureLocal.pdb
